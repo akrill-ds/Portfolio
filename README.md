@@ -1,2 +1,2 @@
-# test
-a little test to begin using GitHub
+# Тест GitHub
+Пробую использовать GitHub для хранения проектов в портфолио
