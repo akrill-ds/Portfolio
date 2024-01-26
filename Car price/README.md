@@ -1,5 +1,5 @@
 ## Определение стоимости автомобилей
-[Посмотреть проект](https://github.com/akrill-ds/Portfolio/blob/main/Car%20price/DS_ML_car_price.ipynb)
+[Посмотреть проект](https://github.com/akrill-ds/yandex-practicum-projects/tree/main/Car%20price/car_price_prediction.ipynb)
 ### Описание проекта
 Построить модель, которая умеет определять рыночную стоимость автомобиля по его характеристикам.
 ### Задачи
