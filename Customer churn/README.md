@@ -1,5 +1,5 @@
 ## Прогнозирование оттока клиентов
-[Посмотреть проект](https://github.com/akrill-ds/Portfolio/blob/main/Customer%20churn/DS_ML_customer_churn.ipynb) 
+[Посмотреть проект](https://github.com/akrill-ds/yandex-practicum-projects/tree/main/Customer%20churn/customer_churn_prediction.ipynb) 
 ### Описание проекта
 Построить и обучить модели на исторических данных для того, чтобы спрогнозировать отток клиентов из банка.
 ### Задачи
