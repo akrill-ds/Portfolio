@@ -1,5 +1,5 @@
 ## Прогноз коэффициента восстановления золота из золотосодержащей руды  
-[Посмотреть проект](https://github.com/akrill-ds/Portfolio/blob/main/Gold%20coeff%20predict/DS_ML_gold_enrichment.ipynb)
+[Посмотреть проект](https://github.com/akrill-ds/yandex-practicum-projects/tree/main/Gold%20recovery/gold_recovery_prediction.ipynb)
 ### Описание проекта
 Разработать модель, прогнозирующая коэффициент восстановления золота из золотосодержащей руды по данным с параметрами добычи и очистки.
 ### Задачи
